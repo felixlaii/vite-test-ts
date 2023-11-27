@@ -12,10 +12,6 @@ module.exports = {
   parserOptions: {
     parser: '@typescript-eslint/parser',
   },
-  rules: {
-    'react-refresh/only-export-components': [
-      'warn',
-      { allowConstantExport: true },
-    ],
-  },
+
+ 
 }
